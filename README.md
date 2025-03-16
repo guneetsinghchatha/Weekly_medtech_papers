@@ -1,6 +1,36 @@
 ___
 
 ## Weekly_medtech_papers
+
+___
+# Week of March 10th - 17th
+1. LIFE-CYCLE ROUTING VULNERABILITIES OF LLM ROUTER - https://arxiv.org/pdf/2503.08704
+2. TEACHING LLMS HOW TO LEARN WITH CONTEXTUAL FINE-TUNING - https://arxiv.org/pdf/2503.09032
+3. Detecting Dataset Bias in Medical AI: A Generalized and Modality-Agnostic Auditing Framework https://arxiv.org/pdf/2503.09969
+4. Vision Transformer for Intracranial Hemorrhage Classification in CT Scans Using an Entropy-Aware Fuzzy Integral Strategy for Adaptive Scan-Level Decision Fusion https://arxiv.org/pdf/2503.08609
+5. QuantU-Net: Efficient Wearable Medical Imaging Using Bitwidth as a Trainable Parameter - https://arxiv.org/pdf/2503.08719
+6. Multimodal AI-driven Biomarker for Early Detection of Cancer Cachexia - https://arxiv.org/pdf/2503.06797
+7. BENCHMARKING CHINESE MEDICAL LLMS: A MEDBENCH-BASED ANALYSIS OF PERFORMANCE GAPS AND HIERARCHICAL OPTIMIZATION STRATEGIES - https://arxiv.org/pdf/2503.07306
+8. MEDAGENTSBENCH: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning https://arxiv.org/pdf/2503.07459
+9. TCM-3CEVAL: A TRIAXIAL BENCHMARK FOR ASSESSING RESPONSES FROM LARGE LANGUAGE MODELS IN TRADITIONAL CHINESE MEDICINE - https://arxiv.org/pdf/2503.07041
+10. Unveiling the Mathematical Reasoning in DeepSeek Models: A Comparative Study of Large Language Models https://arxiv.org/pdf/2503.10573
+11. LLMS IN DISEASE DIAGNOSIS: A COMPARATIVE STUDY OF DEEPSEEK-R1 AND O3 MINI ACROSS CHRONIC HEALTH CONDITIONS https://arxiv.org/pdf/2503.10486
+12. RetSTA: An LLM-Based Approach for Standardizing Clinical Fundus Image Reports https://arxiv.org/pdf/2503.09358
+13. Review GIDE - Restaurant Review Gastrointestinal Illness Detection and Extraction with Large Language Models https://arxiv.org/pdf/2503.09743
+14. Large Language Models for Outpatient Referral: Problem Definition, Benchmarking and Challenges https://arxiv.org/pdf/2503.08292
+15. Cognitive-Mental-LLM: Leveraging Reasoning in Large Language Models for Mental Health Prediction via Online Text https://arxiv.org/pdf/2503.10095
+16. ExKG-LLM: Leveraging Large Language Models for Automated Expansion of Cognitive Neuroscience Knowledge Graphs https://arxiv.org/pdf/2503.06479
+17. SKG-LLM: Developing a Mathematical Model for Stroke Knowledge Graph Construction Using Large Language Models https://arxiv.org/pdf/2503.06475
+18. AXAI-CDSS : An Affective Explainable AI-Driven Clinical Decision Support System for Cannabis Use https://arxiv.org/pdf/2503.06463
+19. AI-DRIVEN AUTOMATED TOOL FOR ABDOMINAL CT BODY COMPOSITION ANALYSIS IN GASTROINTESTINAL CANCER MANAGEMENT https://arxiv.org/pdf/2503.07248
+20. Edge AI for Real-time Fetal Assessment in Rural Guatemala - https://arxiv.org/pdf/2503.09659
+21. The potential role of AI agents in transforming nuclear medicine research and cancer management in India https://arxiv.org/pdf/2503.07673
+22. AI-Enabled Knowledge Sharing for Enhanced Collaboration and Decision-Making in NonProfit Healthcare Organizations: A Scoping Review Protocol - https://arxiv.org/pdf/2503.07540
+23. CUPCase: Clinically Uncommon Patient Cases and Diagnoses Dataset : https://arxiv.org/pdf/2503.06204
+24. Data Foundations for Large Scale Multimodal Clinical Foundation Models https://arxiv.org/pdf/2503.07667
+25. A NOVEL OPHTHALMIC BENCHMARK FOR EVALUATING MULTIMODAL LARGE LANGUAGE MODELS WITH FUNDUS PHOTOGRAPHS AND OCT IMAGES - https://arxiv.org/pdf/2503.07094
+26. Developing and Evaluating an AI-Assisted Prediction Model for Unplanned Intensive Care Admissions following Elective Neurosurgery using Natural Language Processing within an Electronic Healthcare Record System - https://arxiv.org/pdf/2503.09927
+27. Towards Scalable and Cross-Lingual Specialist Language Models for Oncology - https://arxiv.org/pdf/2503.08323
 ___
 
 # Week of March 3rd - 10th
