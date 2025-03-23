@@ -2,6 +2,27 @@ ___
 
 ## Weekly_medtech_papers
 
+# Week of March 17th - 24th
+1. MDTeamGPT: A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation [https://arxiv.org/pdf/2503.13856]
+2. LLM-Match: An Open-Sourced Patient Matching Model Based on Large Language Models and Retrieval-Augmented Generation [https://arxiv.org/pdf/2503.13281]
+3. MedLoRD: A Medical Low-Resource Diffusion Model for High-Resolution 3D CT Image Synthesis [https://arxiv.org/pdf/2503.13211]
+4. Automatic Karyotyping: From Metaphase Image to Diagnostic Prediction [https://arxiv.org/pdf/2211.14312]
+5. AI and Deep Learning for Automated Segmentation and Quantitative Measurement of Spinal Structures in MRI [https://arxiv.org/pdf/2503.11281]
+6. A Retrospective Systematic Study on Hierarchical Sparse Query Transformer-assisted Ultrasound Screening for Early Hepatocellular Carcinoma [https://arxiv.org/pdf/2502.03772]
+7. Enforcing Consistency and Fairness in Multi-level Hierarchical Classification with a Mask-based Output Layer [https://arxiv.org/pdf/2503.15566]
+8. A Transformer-based survival model for prediction of all-cause mortality in heart failure patients: a multi-cohort study [https://arxiv.org/pdf/2503.12317]
+9. Towards Automatic Continual Learning: A Self-Adaptive Framework for Continual Instruction Tuning [https://arxiv.org/pdf/2503.15924]
+10. OpenMIBOOD: Open Medical Imaging Benchmarks for Out-Of-Distribution Detection [https://arxiv.org/pdf/2503.16247]
+11. MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research [https://arxiv.org/pdf/2503.13399]
+12. A Survey on fMRI-based Brain Decoding for Reconstructing Multimodal Stimuli [https://arxiv.org/pdf/2503.15978]
+13. SpecReX: Explainable AI for Raman Spectroscopy [https://arxiv.org/pdf/2503.14567]
+14. Enhancing Pancreatic Cancer Staging with Large Language Models: The Role of Retrieval-Augmented Generation [https://arxiv.org/pdf/2503.15664]
+15. Real-world validation of a multimodal LLM-powered pipeline for High-Accuracy Clinical Trial Patient Matching leveraging EHR data [https://arxiv.org/pdf/2503.15374]
+16. MKG-Rank: Enhancing Large Language Models with Knowledge Graph for Multilingual Medical Question Answering [https://arxiv.org/pdf/2503.16131]
+17. Generating Medically-Informed Explanations for Depression Detection using LLMs  [https://arxiv.org/pdf/2503.14671]
+18. A Language Vision Model Approach for Automated Tumor Contouring in Radiation Oncology [https://arxiv.org/pdf/2503.14933]
+19. Integrating AI for Human-Centric Breast Cancer Diagnostics: A Multi-Scale and Multi-View Swin Transformer Framework [https://arxiv.org/pdf/2503.13309]
+20. ENHANCING ZERO-SHOT LEARNING IN MEDICAL IMAGING: INTEGRATING CLIP WITH ADVANCED TECHNIQUES FOR IMPROVED CHEST X-RAY ANALYSIS [https://arxiv.org/pdf/2503.13134]
 ___
 # Week of March 10th - 17th
 1. LIFE-CYCLE ROUTING VULNERABILITIES OF LLM ROUTER - https://arxiv.org/pdf/2503.08704
