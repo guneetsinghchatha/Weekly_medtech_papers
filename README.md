@@ -2,6 +2,31 @@ ___
 
 ## Weekly_medtech_papers
 
+# Week of March 24th - 30th
+1. The case for delegated AI autonomy for Human AI teaming in healthcare [https://arxiv.org/pdf/2503.18778]
+2. Satisfactory Medical Consultation based on Terminology-Enhanced Information Retrieval and Emotional In-Context Learning [https://arxiv.org/pdf/2503.17876]
+3. Clean & Clear: Feasibility of Safe LLM Clinical Guidance [https://arxiv.org/pdf/2503.20953]
+4. TAMA: A Human-AI Collaborative Thematic Analysis Framework Using Multi-Agent LLMs for Clinical Interviews [https://arxiv.org/pdf/2503.20666]
+5. Patients Speak, AI Listens: LLM-based Analysis of Online Reviews Uncovers Key Drivers for Urgent Care Satisfaction [https://arxiv.org/pdf/2503.20981]
+6. MEDPLAN: A Two-Stage RAG-Based System for Personalized Medical Plan Generation [https://arxiv.org/pdf/2503.17900]
+7. Self-Reported Confidence of Large Language Models in Gastroenterology: Analysis of Commercial, Open-Source, and Quantized Models [https://arxiv.org/pdf/2503.18562]
+8. FINE-TUNING LLMS ON SMALL MEDICAL DATASETS: TEXT CLASSIFICATION AND NORMALIZATION EFFECTIVENESS ON CARDIOLOGY REPORTS AND DISCHARGE RECORDS [https://arxiv.org/pdf/2503.21349]
+9. DEMENTIA-PLAN: AN AGENT-BASED FRAMEWORK FOR MULTI-KNOWLEDGE GRAPH RETRIEVAL-AUGMENTED GENERATION IN DEMENTIA CARE [https://arxiv.org/pdf/2503.20950]
+10. Eyes Tell the Truth: GazeVal Highlights Shortcomings of Generative AI in Medical Imaging [https://arxiv.org/pdf/2503.20967]
+11. The Role of Artificial Intelligence in Enhancing Insulin Recommendations and Therapy Outcomes [https://arxiv.org/pdf/2503.18592]
+12. FundusGAN: A Hierarchical Feature-Aware Generative Framework for High-Fidelity Fundus Image Generation [https://arxiv.org/pdf/2503.17831]
+13. Assessing workflow impact and clinical utility of AIassisted brain aneurysm detection: a multi-reader study [https://arxiv.org/pdf/2503.17786]
+14. SciClaims: An End-to-End Generative System for Biomedical Claim Analysis [https://arxiv.org/pdf/2503.18526]
+15. MEPNet: Medical Entity-Balanced Prompting Network for Brain CT Report Generation [https://arxiv.org/pdf/2503.17784]
+16. Vision-Amplified Semantic Entropy for Hallucination Detection in Medical Visual Question Answering [https://arxiv.org/pdf/2503.20504]
+17. PG-SAM: Prior-Guided SAM with Medical for Multi-organ Segmentation [https://arxiv.org/pdf/2503.18227]
+18. Unlocking the Potential of Past Research: Using Generative AI to Reconstruct Healthcare Simulation Models [https://arxiv.org/pdf/2503.21646]
+19. AI-Driven MRI Spine Pathology Detection: A Comprehensive Deep Learning Approach for Automated Diagnosis in Diverse Clinical Settings [https://arxiv.org/pdf/2503.20316]
+20. Self-Attention Diffusion Models for Zero-Shot Biomedical Image Segmentation: Unlocking New Frontiers in Medical Imaging [https://arxiv.org/pdf/2503.18170]
+21. 3D Convolutional Neural Networks for Improved Detection of Intracranial bleeding in CT Imaging [https://arxiv.org/pdf/2503.20306]
+22. Experience Retrieval-Augmentation with Electronic Health Records Enables Accurate Discharge QA [https://arxiv.org/pdf/2503.17933]
+23. Single Shot AI-assisted quantification of KI-67 proliferation index in breast cancer [https://arxiv.org/pdf/2503.19606]
+___
 # Week of March 17th - 24th
 1. MDTeamGPT: A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation [https://arxiv.org/pdf/2503.13856]
 2. LLM-Match: An Open-Sourced Patient Matching Model Based on Large Language Models and Retrieval-Augmented Generation [https://arxiv.org/pdf/2503.13281]
