@@ -2,6 +2,30 @@ ___
 
 ## Weekly_medtech_papers
 
+# Week of March 31st - April 6th
+1. Harnessing Reinforcement learning for multimodal medical reasoning [https://arxiv.org/pdf/2504.01886]
+2. m1: Unleash the Potential of Test-Time Scaling for Medical Reasoning with Large Language Models [https://arxiv.org/pdf/2504.00869]
+3. MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs [https://arxiv.org/pdf/2504.00993]
+4. Artificial Intelligence-Assisted Prostate Cancer Diagnosis for Reduced Use of Immunohistochemistry [https://arxiv.org/pdf/2504.00979]
+5. Detecting Glioma, Meningioma, and Pituitary Tumors, and Normal Brain Tissues based on Yolov11 and Yolov8 Deep Learning Models [https://arxiv.org/pdf/2504.00189]
+6. TROVE: A Challenge for Fine-Grained Text Provenance via Source Sentence Tracing and Relationship Classification [https://arxiv.org/pdf/2503.15289]
+7. GLiNER-biomed: A Suite of Efficient Models for Open Biomedical Named Entity Recognition [https://arxiv.org/pdf/2504.00676]
+8. IntelliCircos: A Data-driven and AI-powered Authoring Tool for Circos Plots [https://arxiv.org/pdf/2503.24021]
+9. A Large-Scale Vision-Language Dataset Derived from Open Scientific Literature to Advance Biomedical Generalist AI [https://arxiv.org/pdf/2503.22727]
+10. Human-Centered Development of an Explainable AI Framework for Real-Time Surgical Risk Surveillance [https://arxiv.org/pdf/2504.02551]
+11. PROMPTING MEDICAL VISION-LANGUAGE MODELS TO MITIGATE DIAGNOSIS BIAS BY GENERATING REALISTIC DERMOSCOPIC IMAGES [https://arxiv.org/pdf/2504.01838]
+12. ENERGY, AGRICULTURE, FINANCE &MEDICINE AS PRECEDENTS FOR SCALABLEGOVERNANCE OF FRONTIER ARTIFICIAL INTELLIGENCE [https://arxiv.org/pdf/2504.02127]
+13. Detecting PTSD in Clinical Interviews: A Comparative Analysis of NLP Methods and Large Language Models [https://arxiv.org/pdf/2504.01216]
+14. InformGen: An AI Copilot for Accurate and Compliant Clinical Research Consent Document Generation [https://arxiv.org/pdf/2504.00934]
+15. IHC-LLMiner: Automated extraction of tumour immunohistochemical profiles from PubMed abstracts using large language models [https://arxiv.org/pdf/2504.00748]
+16. Systematic Evaluation of Large Vision-Language Models for Surgical Artificial Intelligence [https://arxiv.org/pdf/2504.02799]
+17. Evaluating the Feasibility and Accuracy of Large Language Models for Medical History-Taking in Obstetrics and Gynecology [https://arxiv.org/pdf/2504.00061]
+18. ANESBENCH: Multi-Dimensional Evaluation of LLM Reasoning in Anesthesiology [https://arxiv.org/pdf/2504.02404]
+19. Training Frozen Feature Pyramid DINOv2 for Eyelid Measurements with Infinite Encoding and Orthogonal Regularization [https://arxiv.org/pdf/2504.00515]
+
+
+___
+
 # Week of March 24th - 30th
 1. The case for delegated AI autonomy for Human AI teaming in healthcare [https://arxiv.org/pdf/2503.18778]
 2. Satisfactory Medical Consultation based on Terminology-Enhanced Information Retrieval and Emotional In-Context Learning [https://arxiv.org/pdf/2503.17876]
