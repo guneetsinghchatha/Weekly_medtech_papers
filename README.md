@@ -2,6 +2,23 @@ ___
 
 ## Weekly_medtech_papers
 
+___
+
+# Week of April 21st - April 27th
+
+
+___
+
+# Week of April 14th - 20th 
+
+
+
+___
+
+# Week of April 7th - April 13th
+
+
+___
 # Week of March 31st - April 6th
 1. Harnessing Reinforcement learning for multimodal medical reasoning [https://arxiv.org/pdf/2504.01886]
 2. m1: Unleash the Potential of Test-Time Scaling for Medical Reasoning with Large Language Models [https://arxiv.org/pdf/2504.00869]
